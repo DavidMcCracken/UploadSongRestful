@@ -1,0 +1,40 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\ApplicationInsights.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\ElectiveRestful.dll.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\ElectiveRestful.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\ElectiveRestful.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.Web.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.ApplicationInsights.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.Web.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\bin\Microsoft.ApplicationInsights.xml
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\obj\Debug\ElectiveRestful.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\obj\Debug\ElectiveRestful.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\Homework1CSE598\ElectiveRestful\ElectiveRestful\obj\Debug\ElectiveRestful.pdb
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\ApplicationInsights.config
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\ElectiveRestful.dll.config
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\ElectiveRestful.dll
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\ElectiveRestful.pdb
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.Web.dll
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.ApplicationInsights.dll
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.Web.xml
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\bin\Microsoft.ApplicationInsights.xml
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\obj\Debug\ElectiveRestful.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\obj\Debug\ElectiveRestful.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\obj\Debug\ElectiveRestful.csproj.CopyComplete
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\obj\Debug\ElectiveRestful.dll
+C:\Users\David\Desktop\Chen Testing\ElectiveRestful\ElectiveRestful\obj\Debug\ElectiveRestful.pdb

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<database>
+  <artist_database>
+    <artist>
+      <artist_name>artist name test</artist_name>
+      <album>album test</album>
+      <song_name>song name test</song_name>
+      <genre>genre test</genre>
+      <year_released>year released test</year_released>
+      <duration> duration test</duration>
+    </artist>
+    <artist>
+      <artist_name>Artist name</artist_name>
+      <album>Album</album>
+      <song_name>Song</song_name>
+      <genre>Genre</genre>
+      <year_released>Year released</year_released>
+      <duration>Duration</duration>
+    </artist>
+    <artist>
+      <artist_name>David</artist_name>
+      <album>Album</album>
+      <song_name>Song</song_name>
+      <genre>Genre</genre>
+      <year_released>Year released</year_released>
+      <duration>Duration</duration>
+    </artist>
+    <artist>
+      <artist_name>Artist name</artist_name>
+      <album>Album</album>
+      <song_name>Song</song_name>
+      <genre>Genre</genre>
+      <year_released>Year released</year_released>
+      <duration>Duration</duration>
+    </artist>
+    <artist>
+      <artist_name>final</artist_name>
+      <album>final</album>
+      <song_name>final</song_name>
+      <genre>final</genre>
+      <year_released>final</year_released>
+      <duration>final</duration>
+    </artist>
+  </artist_database>
+  <customer_database>
+    <customer>
+      <customer_username>JohnDoe23</customer_username>
+      <customer_password>passwordtest</customer_password>
+      <balance>200</balance>
+    </customer>
+    <customer>
+      <customer_username>JohnDoe45</customer_username>
+      <customer_password>passwordtest</customer_password>
+      <balance>200</balance>
+    </customer>
+  </customer_database>
+  <user_database>
+    <members_database>
+      <member>
+        <member_username>JohnDoe1</member_username>
+        <member_password>password</member_password>
+        <balance>100</balance>
+      </member>
+      <member>
+        <member_username>davidtest</member_username>
+        <member_password>grfgvatrapelcgvba</member_password>
+      </member>
+      <member>
+        <member_username>TA</member_username>
+        <member_password>Pfr445gn!</member_password>
+      </member>
+    </members_database>
+    <staff_database>
+      <staff>
+        <staff_username>TA</staff_username>
+        <staff_password>Pfr445gn!</staff_password>
+      </staff>
+      <staff>
+        <staff_username>admin</staff_username>
+        <staff_password>password</staff_password>
+      </staff>
+      <staff>
+        <staff_username>admin</staff_username>
+        <staff_password>password</staff_password>
+      </staff>
+      <staff>
+        <staff_username>username</staff_username>
+        <staff_password>password</staff_password>
+      </staff>
+      <staff>
+        <staff_username>admin</staff_username>
+        <staff_password>cnffjbeq</staff_password>
+      </staff>
+    </staff_database>
+  </user_database>
+</database>
